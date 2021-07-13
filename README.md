@@ -1,7 +1,7 @@
 # advanced-server-nuker
 An Advanced &amp; Customizable Discord server Raider + Nuker.
-
-**Currently being built**
+#### Defaults
+The default Bot cmd for nuking is `.nuke` no cap!
 
 # Features
 - Channels nuker
@@ -16,6 +16,7 @@ An Advanced &amp; Customizable Discord server Raider + Nuker.
 - Custom Channel Names
 - Custom Spam message 
 - Custom Command
+- Custom Prefix
 - Custom Bot Status
 
 # Important
