@@ -2,6 +2,7 @@
 An Advanced &amp; Customizable Discord server Raider + Nuker.
 
 **Currently being built**
+
 # Features
 - Channels nuker
 - Roles nuker
@@ -16,6 +17,11 @@ An Advanced &amp; Customizable Discord server Raider + Nuker.
 - Custom Spam message 
 - Custom Command
 - Custom Bot Status
+
+# Important
+- while creating a bot, you need to turn on both `members` and `presence`intents.
+ ![image](https://user-images.githubusercontent.com/85618839/125402881-85103000-e3d2-11eb-9996-42d93a328e46.png)
+
 
 # Instructions
 ### Replit.com (Recommended)
@@ -50,4 +56,6 @@ An Advanced &amp; Customizable Discord server Raider + Nuker.
 
 # Tips
 - Make sure your bot have both `server members intent` & `presence intent` on
-- Before start nuking, mak sure your bot have administrator permissions.
+- Before start nuking, make sure your bot have administrator permissions.
+- DO NOT mention that you do server raidings. Someone might report you for this.
+- Don't Share the Bot token with anyone. If it got leaked then regenerate it and update the `main.py`.
