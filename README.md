@@ -30,9 +30,11 @@ An Advanced &amp; Customizable Discord server Raider + Nuker.
 - Click "import from GitHub" button
 - Type `ItzBoiz/advanced-server-nuker`
 - Go to `main.py` and make changes
+- Add Discord & Colorama Python Packages if they're missing.
 
 ### Local
 - Make sure you have installed Python
+- Install Discord & Colorama Python Packages
 - Download this project as `.zip`
 - Extract this project.
 - Right-Click the `main.py` and open it in an editer (IDLE, VisualStudio etc.)
