@@ -1,7 +1,8 @@
 # advanced-server-nuker
 An Advanced &amp; Customizable Discord server Raider + Nuker.
 
-![image](https://user-images.githubusercontent.com/85618839/125406708-c1de2600-e3d6-11eb-85ed-fc31496fec6d.png)
+![image](https://user-images.githubusercontent.com/85618839/125419362-73414d74-e799-46e0-aaa2-0ec44133f57d.png)
+
 
 ![image](https://user-images.githubusercontent.com/85618839/125415692-8670d4e9-34b8-4c48-8b55-5836a1b037c5.png)
 
