@@ -33,11 +33,14 @@ The default Bot cmd for nuking is `.nuke` no cap!
 
 # Instructions
 ### Replit.com (Recommended)
+- Download the code as `.zip`
+- Extract the folder
 - Go to your dashboard
 - Click "New Repl" button
-- Click "import from GitHub" button
-- Type `ItzBoiz/advanced-server-nuker`
-- Go to `main.py` and make changes
+- On the language option click Python
+- Create the repl.
+- Delete the `main.py`
+- Copy the extracted items to replit (drag 'em!)
 - Add Discord & Colorama Python Packages if they're missing.
 
 ### Local
