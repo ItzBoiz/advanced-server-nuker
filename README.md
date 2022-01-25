@@ -42,6 +42,7 @@ The default Bot cmd for nuking is `.nuke` no cap!
 - Delete the `main.py`
 - Copy the extracted items to replit (drag 'em!)
 - Add Discord & Colorama Python Packages if they're missing.
+- Use secret keys instead of .env to run
 
 ### Local
 - Make sure you have installed Python
@@ -55,15 +56,15 @@ The default Bot cmd for nuking is `.nuke` no cap!
 # How To Customize
 ### Replit
 - Open the repl
-- go to `main.py`
-- there is, in `token = ""` enter your token. it should be like (`"token"`) in the "".
+- create a secret key
+- Put name `Token` and value your token.
 - Safely edit the channel names if you want.
 - Edit the command if you want. By default, its `.nuke` no cap!
 
 ### Local
-- Right click the `main.py`
 - Open in your code editor
-- there is, in `token = ""` enter your token. it should be like (`"token"`) in the "".
+- Create a file called `.env`
+- Put there: `Token: Pastetokenhere`
 - Safely edit the channel names if you want.
 - Edit the command if you want. By default, its `.nuke` no cap!
 
@@ -71,4 +72,4 @@ The default Bot cmd for nuking is `.nuke` no cap!
 - Make sure your bot have both `server members intent` & `presence intent` on
 - Before start nuking, make sure your bot have administrator permissions.
 - DO NOT mention that you do server raidings. Someone might report you for this.
-- Don't Share the Bot token with anyone. If it got leaked then regenerate it and update the `main.py`.
+- Don't Share the Bot token with anyone. If it got leaked then regenerate it and update the `.env`.
