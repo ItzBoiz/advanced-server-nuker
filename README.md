@@ -42,6 +42,7 @@ The default Bot cmd for nuking is `.nuke` no cap!
 - Delete the `main.py`
 - Copy the extracted items to replit (drag 'em!)
 - Add Discord & Colorama Python Packages if they're missing.
+- Use secret keys instead of .env to run
 
 ### Local
 - Make sure you have installed Python
