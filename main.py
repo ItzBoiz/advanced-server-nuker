@@ -5,9 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-# Check readme.md for lastest updates
-
-token = "PasteHere"
+# Check readme.md for latest updates
 
 # If you are having issues, watch this video: https://streamable.com/7eovst or follow message listed below
 
@@ -115,4 +113,5 @@ async def on_guild_channel_create(channel):
         await channel.send(random.choice(SPAM_MESSAGE))
 
 
-client.run(token, bot=True)
+my_secret = os.environ['Token']
+client.run(my_secret)
